@@ -1,0 +1,90 @@
+[
+  {
+    "job_id": 82552965,
+    "extracted_skills": {
+      "hard_skills": [
+        "data visualization",
+        "analytics dashboard design",
+        "tableau",
+        "power bi",
+        "sql",
+        "relational database management",
+        "data analysis",
+        "statistical analysis",
+        "data transformation",
+        "business intelligence",
+        "interactive reporting",
+        "data flow optimization",
+        "root cause analysis",
+        "risk assessment",
+        "project management",
+        "technical problem solving",
+        "data aggregation",
+        "computer science",
+        "information systems",
+        "computer engineering"
+      ],
+      "soft_skills": [
+        "strategic decision making",
+        "communication",
+        "collaboration",
+        "stakeholder management",
+        "training and education",
+        "problem solving",
+        "adaptability",
+        "innovation",
+        "critical thinking",
+        "project leadership",
+        "interpersonal skills",
+        "analytical thinking"
+      ]
+    },
+    "usage": {
+      "input_tokens": 570,
+      "output_tokens": 245
+    }
+  },
+  {
+    "job_id": 82568155,
+    "extracted_skills": {
+      "hard_skills": [
+        "microsoft dynamics ax",
+        "microsoft dynamics 365",
+        "enterprise resource planning (erp)",
+        "business process improvement",
+        "business process mapping",
+        "system configuration",
+        "user training",
+        "user guide development",
+        "technical documentation",
+        "gap analysis",
+        "process flow design",
+        "financial systems implementation",
+        "trade module configuration",
+        "production module configuration",
+        "user acceptance testing (uat)",
+        "project implementation",
+        "english language proficiency"
+      ],
+      "soft_skills": [
+        "self-motivation",
+        "independent work",
+        "teamwork",
+        "problem solving",
+        "time management",
+        "adaptability",
+        "communication",
+        "client relationship management",
+        "responsibility",
+        "quick learning",
+        "stress management",
+        "interpersonal skills",
+        "collaboration"
+      ]
+    },
+    "usage": {
+      "input_tokens": 679,
+      "output_tokens": 245
+    }
+  }
+]

@@ -1,0 +1,90 @@
+[
+  {
+    "job_id": 83344897,
+    "extracted_skills": {
+      "hard_skills": [
+        "project management",
+        "it project management",
+        "project planning",
+        "project coordination",
+        "project budgeting",
+        "project scheduling",
+        "progress tracking",
+        "risk management",
+        "change management",
+        "documentation management",
+        "technology transfer",
+        "outsourcing management",
+        "procurement management",
+        "information technology project management system (itpms)",
+        "client communication",
+        "english language",
+        "chinese language",
+        "project audit",
+        "resource allocation",
+        "issue tracking"
+      ],
+      "soft_skills": [
+        "leadership",
+        "communication",
+        "analytical thinking",
+        "problem solving",
+        "team collaboration",
+        "interpersonal skills",
+        "strategic planning",
+        "adaptability",
+        "attention to detail",
+        "client relationship management",
+        "negotiation",
+        "time management",
+        "organizational skills"
+      ]
+    },
+    "usage": {
+      "input_tokens": 873,
+      "output_tokens": 260
+    }
+  },
+  {
+    "job_id": 83342957,
+    "extracted_skills": {
+      "hard_skills": [
+        "sap fi/co configuration",
+        "sap financial accounting",
+        "sap controlling",
+        "abap programming",
+        "sap module integration",
+        "system troubleshooting",
+        "database management",
+        "financial data analysis",
+        "user manual development",
+        "technical documentation",
+        "unit testing",
+        "user acceptance testing",
+        "sap system maintenance",
+        "custom report development",
+        "interface configuration",
+        "accounting standards compliance",
+        "sap mm module",
+        "sap sd module"
+      ],
+      "soft_skills": [
+        "problem solving",
+        "collaboration",
+        "communication",
+        "cross-functional teamwork",
+        "training delivery",
+        "process improvement",
+        "analytical thinking",
+        "continuous learning",
+        "user support",
+        "strategic recommendation",
+        "attention to detail"
+      ]
+    },
+    "usage": {
+      "input_tokens": 594,
+      "output_tokens": 248
+    }
+  }
+]

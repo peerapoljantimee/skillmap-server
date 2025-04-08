@@ -1,0 +1,52 @@
+[
+  {
+    "job_id": 82552813,
+    "extracted_skills": {
+      "hard_skills": [
+        "data systems design",
+        "database management",
+        "data pipeline development",
+        "web scraping",
+        "api integration",
+        "sql query writing",
+        "data modeling",
+        "data normalization",
+        "data indexing",
+        "data reporting",
+        "performance tuning",
+        "etl/elt framework implementation",
+        "cloud platform management",
+        "microsoft azure",
+        "amazon web services",
+        "google cloud platform",
+        "big data tools integration",
+        "cloud data pipeline development",
+        "python programming",
+        "java programming",
+        "sql programming",
+        "data lake architecture",
+        "spark framework",
+        "data ingestion",
+        "data aggregation"
+      ],
+      "soft_skills": [
+        "collaboration",
+        "stakeholder management",
+        "diplomatic communication",
+        "flexibility",
+        "presentation skills",
+        "oral communication",
+        "written communication",
+        "self-motivation",
+        "results orientation",
+        "multitasking",
+        "problem-solving",
+        "adaptability"
+      ]
+    },
+    "usage": {
+      "input_tokens": 706,
+      "output_tokens": 296
+    }
+  }
+]

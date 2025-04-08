@@ -1,0 +1,84 @@
+[
+  {
+    "job_id": 81777305,
+    "extracted_skills": {
+      "hard_skills": [
+        "product development",
+        "supply chain management",
+        "supplier selection",
+        "supplier evaluation",
+        "cost control",
+        "market analysis",
+        "product cost optimization",
+        "international business coordination",
+        "quality documentation management",
+        "procurement process management",
+        "product portfolio management",
+        "vendor management",
+        "emergency situation management"
+      ],
+      "soft_skills": [
+        "strategic thinking",
+        "cross-cultural communication",
+        "problem solving",
+        "analytical thinking",
+        "adaptability",
+        "collaboration",
+        "proactive planning",
+        "continuous improvement mindset",
+        "negotiation",
+        "interpersonal communication",
+        "project coordination",
+        "decision making",
+        "resource integration"
+      ]
+    },
+    "usage": {
+      "input_tokens": 1403,
+      "output_tokens": 220
+    }
+  },
+  {
+    "job_id": 82488663,
+    "extracted_skills": {
+      "hard_skills": [
+        "business administration",
+        "information technology",
+        "computer science",
+        "software development",
+        "web application design",
+        "database design",
+        "prototype development",
+        "requirements analysis",
+        "solution design",
+        "erp systems",
+        "software application projects",
+        "unit testing",
+        "system integration testing",
+        "user acceptance testing",
+        "technical documentation",
+        "end user training",
+        "english language proficiency"
+      ],
+      "soft_skills": [
+        "analytical thinking",
+        "logical reasoning",
+        "problem solving",
+        "communication skills",
+        "presentation skills",
+        "teamwork",
+        "service orientation",
+        "adaptability",
+        "stress management",
+        "collaboration",
+        "interpersonal skills",
+        "learning agility",
+        "client relationship management"
+      ]
+    },
+    "usage": {
+      "input_tokens": 508,
+      "output_tokens": 236
+    }
+  }
+]

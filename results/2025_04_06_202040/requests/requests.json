@@ -1,0 +1,30 @@
+[
+  {
+    "custom_id": "81777305",
+    "params": {
+      "model": "claude-3-5-haiku-20241022",
+      "temperature": 0,
+      "max_tokens": 1024,
+      "messages": [
+        {
+          "role": "user",
+          "content": "You are an AI expert in analyzing and extracting skills from ICT job postings. Your task is to comprehensively identify all relevant hard skills and soft skills without overlooking any skills.\n\nPlease analyze the ICT job posting contained in the job posting รายละเอียดงาน\n\nความรับผิดชอบในการทำงาน 1.\nรับผิดชอบในการพัฒนาผลิตภัณฑ์ป้องกันไฟฟ้าสถิตย์ในท้องถิ่น\nผลิตภัณฑ์ป้องกันแรงงาน ผลิตภัณฑ์ซีรีส์ MRO และวัสดุวิศวกรรมในประเทศไทย\nรวมถึงการพัฒนาผลิตภัณฑ์ใหม่ วัสดุใหม่ และซัพพลายเออร์ใหม่ 2.\nมีแนวคิดห่วงโซ่อุปทานระหว่างประเทศ\nเชื่อมโยงสำนักงานใหญ่และสาขาของบริษัทในประเทศจีนในประเทศต่างๆ\nส่งเสริมผลิตภัณฑ์ที่ยอดเยี่ยมของประเทศต่างๆ สู่ประเทศไทย\nและในเวลาเดียวกันส่งเสริมผลิตภัณฑ์อันทรงคุณค่าของไทยสู่สำนักงานใหญ่และสาขาในประเทศจีนในประเทศต่างๆ\n2. รับผิดชอบการคัดเลือก ประเมิน ประเมินผล\nบำรุงรักษาและบริหารจัดการซัพพลายเออร์ในท้องถิ่นในประเทศไทย\nและให้ข้อมูลพื้นฐานเกี่ยวกับซัพพลายเออร์และผลิตภัณฑ์ใหม่ 3.\nประเมินซัพพลายเออร์ใหม่และผลิตภัณฑ์ใหม่ในแง่ราคา คุณภาพ วันส่งมอบ และปริมาณ\nเพื่อพิจารณาคุณภาพของซัพพลายเออร์และประสานงานและแก้ไขสถานการณ์ฉุกเฉินต่างๆ\nที่เกิดขึ้นในระหว่างกระบวนการจัดซื้อโดยเร็วที่สุด 4.\nการลงนามสัญญาซัพพลายเออร์และการขอเอกสารคุณภาพผลิตภัณฑ์ที่เกี่ยวข้อง 5.\nเข้าใจการเปลี่ยนแปลงของตลาด รวมถึงการเปลี่ยนแปลงราคา\nเพื่อควบคุมต้นทุนได้ดีขึ้น 6.\nเข้าใจแนวโน้มการเปลี่ยนแปลงเพื่อเลือกพัฒนาผลิตภัณฑ์ใหม่ได้ดีขึ้น 7.\nรับผิดชอบในการเชื่อมโยงและส่งเสริมโครงการที่เกี่ยวข้องของแผนกธุรกิจภายในและห่วงโซ่อุปทานของบริษัท\n8.\nรับผิดชอบการบูรณาการและเพิ่มประสิทธิภาพทรัพยากรของซัพพลายเออร์และการเพิ่มประสิทธิภาพต้นทุนผลิตภัณฑ์อย่างต่อเนื่อง\n9. ดำเนินการอื่น ๆ ที่เกี่ยวข้องตามที่ผู้บังคับบัญชามอบหมาย\n\n and identify all relevant skills, categorized into hard skills and soft skills in a comprehensive manner.\n\nThe extracted skill names must follow standardized naming conventions to ensure consistency and usability for analysis across multiple job postings. Standardization should align with widely accepted skill taxonomies (e.g., ESCO, O*NET) and maintain uniform capitalization and phrasing.\n\nThe required output is a JSON in this format:\n{\"hard_skills\": [skill_1, skill_2, ...], \"soft_skills\": [skill_1, skill_2, ...]}\n\nMake sure that the output contains only JSON and no additional text."
+        }
+      ]
+    }
+  },
+  {
+    "custom_id": "82488663",
+    "params": {
+      "model": "claude-3-5-haiku-20241022",
+      "temperature": 0,
+      "max_tokens": 1024,
+      "messages": [
+        {
+          "role": "user",
+          "content": "You are an AI expert in analyzing and extracting skills from ICT job postings. Your task is to comprehensively identify all relevant hard skills and soft skills without overlooking any skills.\n\nPlease analyze the ICT job posting contained in the job posting **Qualifications:**\n\n  * Bachelor's degree or higher in Business administration, Information technology, Computer Science or related fields.\n  * 0-3 years of work experience.\n  * Have skill of analysis, logical thinking and problem solving, good communication & presentation skills.\n  * Experience in Software Application projects or any ERP system will be a plus.\n  * Good communication and presentation skill.\n  * Good teamwork with service mind.\n  * Able to work as a team, must be able to work under pressure.\n  * Able to work on site or upcountry as assigned.\n  * Has some technical understanding of software development.\n  * Good communication of English both spoken and written is an advantage.\n  * Willing to learn and design solution based on various technology and product.\n\n**Responsibilities:**\n\n  * Conduct meetings with business users to gather business requirements.\n  * Analyze the business requirements and provide solution design.\n  * Perform web application’s prototype screen and database design.\n  * Conduct meeting to provide designed solution and prototype to business users.\n  * Provide functional specification documents.\n  * Collaborate with developers both internal resources and third parties/vendors.\n  * Facilitate testing sessions including unit test, system integration test (SIT) and user acceptance test (UAT) to verify the client’s needs are met.\n  * Prepare end user training materials and conduct training session.\n\n and identify all relevant skills, categorized into hard skills and soft skills in a comprehensive manner.\n\nThe extracted skill names must follow standardized naming conventions to ensure consistency and usability for analysis across multiple job postings. Standardization should align with widely accepted skill taxonomies (e.g., ESCO, O*NET) and maintain uniform capitalization and phrasing.\n\nThe required output is a JSON in this format:\n{\"hard_skills\": [skill_1, skill_2, ...], \"soft_skills\": [skill_1, skill_2, ...]}\n\nMake sure that the output contains only JSON and no additional text."
+        }
+      ]
+    }
+  }
+]

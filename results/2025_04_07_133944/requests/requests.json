@@ -1,0 +1,30 @@
+[
+  {
+    "custom_id": "75050939",
+    "params": {
+      "model": "claude-3-5-haiku-20241022",
+      "temperature": 0,
+      "max_tokens": 1024,
+      "messages": [
+        {
+          "role": "user",
+          "content": "You are an AI expert in analyzing and extracting skills from ICT job postings. Your task is to comprehensively identify all relevant hard skills and soft skills without overlooking any skills.\n\nPlease analyze the ICT job posting contained in the job posting   \n**Job Function**\n\nSoftware & Cloud Services\n\n and identify all relevant skills, categorized into hard skills and soft skills in a comprehensive manner.\n\nThe extracted skill names must follow standardized naming conventions to ensure consistency and usability for analysis across multiple job postings. Standardization should align with widely accepted skill taxonomies (e.g., ESCO, O*NET) and maintain uniform capitalization and phrasing.\n\nThe required output is a JSON in this format:\n{\"hard_skills\": [skill_1, skill_2, ...], \"soft_skills\": [skill_1, skill_2, ...]}\n\nMake sure that the output contains only JSON and no additional text."
+        }
+      ]
+    }
+  },
+  {
+    "custom_id": "81842276",
+    "params": {
+      "model": "claude-3-5-haiku-20241022",
+      "temperature": 0,
+      "max_tokens": 1024,
+      "messages": [
+        {
+          "role": "user",
+          "content": "You are an AI expert in analyzing and extracting skills from ICT job postings. Your task is to comprehensively identify all relevant hard skills and soft skills without overlooking any skills.\n\nPlease analyze the ICT job posting contained in the job posting ## ***** ทางสำนักงานได้คนแล้วค่ะ ปิดรับสมัครแล้ว ขอบคุณค่ะ *****\n\n and identify all relevant skills, categorized into hard skills and soft skills in a comprehensive manner.\n\nThe extracted skill names must follow standardized naming conventions to ensure consistency and usability for analysis across multiple job postings. Standardization should align with widely accepted skill taxonomies (e.g., ESCO, O*NET) and maintain uniform capitalization and phrasing.\n\nThe required output is a JSON in this format:\n{\"hard_skills\": [skill_1, skill_2, ...], \"soft_skills\": [skill_1, skill_2, ...]}\n\nMake sure that the output contains only JSON and no additional text."
+        }
+      ]
+    }
+  }
+]

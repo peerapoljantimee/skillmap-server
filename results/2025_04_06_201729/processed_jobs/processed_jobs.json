@@ -1,0 +1,83 @@
+[
+  {
+    "job_id": 81777305,
+    "extracted_skills": {
+      "hard_skills": [
+        "product development",
+        "supply chain management",
+        "supplier evaluation",
+        "cost control",
+        "market analysis",
+        "product quality assessment",
+        "international business coordination",
+        "procurement management",
+        "contract negotiation",
+        "resource integration",
+        "product cost optimization",
+        "technical documentation management"
+      ],
+      "soft_skills": [
+        "strategic thinking",
+        "cross-cultural communication",
+        "problem solving",
+        "analytical thinking",
+        "adaptability",
+        "collaboration",
+        "attention to detail",
+        "project coordination",
+        "emergency response management",
+        "continuous improvement",
+        "interpersonal communication",
+        "performance evaluation"
+      ]
+    },
+    "usage": {
+      "input_tokens": 1403,
+      "output_tokens": 203
+    }
+  },
+  {
+    "job_id": 82488663,
+    "extracted_skills": {
+      "hard_skill": [
+        "business administration",
+        "information technology",
+        "computer science",
+        "software development",
+        "web application design",
+        "database design",
+        "prototype development",
+        "requirements analysis",
+        "solution design",
+        "software application project management",
+        "enterprise resource planning (erp) systems",
+        "technical documentation",
+        "functional specification writing",
+        "system integration testing",
+        "user acceptance testing",
+        "end user training material development",
+        "technical communication",
+        "english language proficiency"
+      ],
+      "soft_skill": [
+        "analytical thinking",
+        "logical reasoning",
+        "problem solving",
+        "communication skills",
+        "presentation skills",
+        "teamwork",
+        "service orientation",
+        "adaptability",
+        "stress management",
+        "collaboration",
+        "interpersonal skills",
+        "learning agility",
+        "client relationship management"
+      ]
+    },
+    "usage": {
+      "input_tokens": 508,
+      "output_tokens": 253
+    }
+  }
+]

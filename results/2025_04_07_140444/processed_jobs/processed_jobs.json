@@ -1,0 +1,97 @@
+[
+  {
+    "job_id": 83205147,
+    "extracted_skills": {
+      "hard_skills": [
+        "data analytics",
+        "customer experience management",
+        "google marketing platform",
+        "google cloud platform",
+        "crm systems",
+        "cloud computing",
+        "saas technologies",
+        "hubspot",
+        "braze",
+        "salesforce",
+        "google analytics 4",
+        "google tag manager",
+        "digital transformation technologies",
+        "business intelligence",
+        "ai technology implementation",
+        "strategic consulting",
+        "solutions architecture",
+        "market analysis",
+        "kpi development",
+        "technical presentation",
+        "roi analysis"
+      ],
+      "soft_skills": [
+        "strategic thinking",
+        "problem solving",
+        "client relationship management",
+        "communication",
+        "presentation skills",
+        "innovation",
+        "adaptability",
+        "collaboration",
+        "active listening",
+        "interpersonal skills",
+        "consultative approach",
+        "business acumen",
+        "critical thinking",
+        "relationship building",
+        "thought leadership"
+      ]
+    },
+    "usage": {
+      "input_tokens": 1403,
+      "output_tokens": 280
+    }
+  },
+  {
+    "job_id": 83179575,
+    "extracted_skills": {
+      "hard_skills": [
+        "sql",
+        "python",
+        "pyspark",
+        "aws cloud",
+        "azure cloud",
+        "synapse analytics",
+        "aws glue",
+        "azure data factory",
+        "databricks",
+        "git version control",
+        "terraform",
+        "cloudformation",
+        "continuous integration and deployment (ci/cd)",
+        "data integration",
+        "data analytics",
+        "data reporting",
+        "cloud data platforms",
+        "infrastructure as code",
+        "technical requirements analysis",
+        "solution design",
+        "application development"
+      ],
+      "soft_skills": [
+        "communication",
+        "presentation skills",
+        "relationship management",
+        "team leadership",
+        "mentorship",
+        "problem solving",
+        "collaboration",
+        "adaptability",
+        "multilingual communication",
+        "technical writing",
+        "client relationship management",
+        "cross-cultural communication"
+      ]
+    },
+    "usage": {
+      "input_tokens": 1773,
+      "output_tokens": 259
+    }
+  }
+]

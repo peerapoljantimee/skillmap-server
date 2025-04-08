@@ -1,0 +1,24 @@
+[
+  {
+    "job_id": 75050939,
+    "extracted_skills": {
+      "hard_skill": [],
+      "soft_skill": []
+    },
+    "usage": {
+      "input_tokens": 208,
+      "output_tokens": 16
+    }
+  },
+  {
+    "job_id": 75240167,
+    "extracted_skills": {
+      "hard_skill": [],
+      "soft_skill": []
+    },
+    "usage": {
+      "input_tokens": 331,
+      "output_tokens": 16
+    }
+  }
+]
