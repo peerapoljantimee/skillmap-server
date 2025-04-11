@@ -160,7 +160,7 @@ async def retrieval(request : dict, db: AsyncSession):
         return {
             "status": "success",
             "top_n": top_n,
-            "jobs": jobs_retrieval,   
+            "data": jobs_retrieval,   
             }
 
     except Exception as e:
