@@ -6,7 +6,21 @@ import random
 
 async def fetch_company_size(db: AsyncSession):
    try:
-      stmt = text("SELECT DISTINCT company_size FROM company ORDER BY company_size;")
+      stmt = text("""
+      SELECT DISTINCT company_size
+      FROM company
+      WHERE company_size IS NOT NULL
+      ORDER BY 
+      CASE 
+         WHEN company_size = '11-50 employees' THEN 1
+         WHEN company_size = '51-100 employees' THEN 2
+         WHEN company_size = '101-1,000 employees' THEN 3
+         WHEN company_size = '1,001-5,000 employees' THEN 4
+         WHEN company_size = '5,001-10,000 employees' THEN 5
+         WHEN company_size = 'More than 10,000 employees' THEN 6
+         ELSE 7
+      END;         
+      """)
       result = await db.execute(stmt)
 
       company_size_list = result.mappings().all()
@@ -22,7 +36,7 @@ async def fetch_company_size(db: AsyncSession):
     
 async def fetch_industry(db: AsyncSession):
    try:
-      stmt = text("SELECT DISTINCT industry FROM company ORDER BY industry;")
+      stmt = text("SELECT DISTINCT industry FROM company WHERE industry IS NOT NULL ORDER BY industry;")
       result = await db.execute(stmt)
 
       industry_list = result.mappings().all()
