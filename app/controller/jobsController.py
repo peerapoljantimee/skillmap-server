@@ -232,8 +232,8 @@ async def insert_jobpostings(request: dict, db: AsyncSession):
 
         await db.execute(classification_stmt, {
             "job_id": job_id,
-            "main_category_id": int(request["classification"]["mainCategory"]["id"]),
-            "sub_category_id": int(request["classification"]["subCategory"]["id"])
+            "main_category_id": int(request["classification"]["mainCategories"]["id"]),
+            "sub_category_id": int(request["classification"]["subCategories"]["id"])
         })
         
         # 4. บันทึกข้อมูลสถานะทักษะ (jobs_skill_status)
