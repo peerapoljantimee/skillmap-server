@@ -7,8 +7,8 @@
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Google_Gemini-8E44AD?style=flat&logo=google&logoColor=white)
 ![Google Vision](https://img.shields.io/badge/Google_Vision-4285F4?style=flat&logo=google&logoColor=white)
-![Looker Studio](https://img.shields.io/badge/Looker_Studio-0078D4?style=flat&logo=google&logoColor=white)
-![JobsDB](https://img.shields.io/badge/JobsDB-db0473?style=flat&logo=job&logoColor=white)![Web Scraping](https://img.shields.io/badge/Web_Scraping-47A248?style=flat)
+![JobsDB](https://img.shields.io/badge/JobsDB-db0473?style=flat&logo=job&logoColor=white)
+![Web Scraping](https://img.shields.io/badge/Web_Scraping-47A248?style=flat)
 ![Image to Text](https://img.shields.io/badge/Image_to_Text-FF6F00?style=flat&logo=image&logoColor=white)
 
 
@@ -99,10 +99,8 @@ GOOGLE_APPLICATION_CREDENTIALS="app\utils\image_to_text\google_openai\{เเท
 env\Scripts\activate
 
 # เริ่มต้นเซิร์ฟเวอร์
-python -m app.main
+fastapi dev .\app\main.py
 ```
-
-เซิร์ฟเวอร์จะทำงานที่ `http://localhost:8000` และคุณสามารถเข้าถึง API Documentation ได้ที่ `http://localhost:8000/docs`
 
 ## โครงสร้างโปรเจค
 
