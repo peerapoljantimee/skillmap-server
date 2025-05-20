@@ -135,4 +135,4 @@ skillmap-server/
   - `skill_mapping`: จับคู่ทักษะกับหมวดหมู่และทำการวิเคราะห์ความเกี่ยวข้อง
 
 # Infographic Poster
-![infographic](img\วิเคราะห์แนวโน้มอาชีพและการจับคู่ทักษะ.png)
+![infographic](img/วิเคราะห์แนวโน้มอาชีพและการจับคู่ทักษะ.png)
