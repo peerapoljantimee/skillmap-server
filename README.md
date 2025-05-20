@@ -133,3 +133,6 @@ skillmap-server/
   - `simplified`: ทำหน้าที่ประมวลผลและลดความซับซ้อนของข้อมูล
   - `skill_extractors`: สกัดทักษะจากรายละเอียดงานด้วยเทคโนโลยี AI จาก Anthropic AI 
   - `skill_mapping`: จับคู่ทักษะกับหมวดหมู่และทำการวิเคราะห์ความเกี่ยวข้อง
+
+# Infographic Poster
+![infographic](img\วิเคราะห์แนวโน้มอาชีพและการจับคู่ทักษะ.png)
